@@ -1,0 +1,24 @@
+# Bearing Housing (2D Drafting)AutoCAD Minor Project 2
+
+GlowLogics Solutions · Nov 2026 · Scale 1:1 · Millimetres · A2 sheet · Third-angle projection · Material: cast iron
+
+## Files
+| File | Description |
+|---|---|
+| `bearing-housing.dxf` | DXF (R12/AC1009) – opens in any CAD software |
+| `bearing-housing.pdf` | Vector PDF, A2 landscape (594 x 420 mm) |
+| `bearing-housing-all-views-screenshot.png` | Screenshot of the full sheet |
+
+## Part data
+- Base plate 100 x 100 x 15 mm; boss Ø50 x 25 mm tall (total height 40 mm); bore Ø30 through
+- 4 holes Ø9 equally spaced on Ø76 PCD
+
+## Drawing contents
+Top, front, left, right and bottom views, Section A-A (hatched), isometric view, dimensions, notes.
+
+## DWG
+A native `.dwg` could not be generated in this environment. To get one: open the `.dxf` in AutoCAD, then `SAVEAS` -> AutoCAD Drawing (*.dwg).
+
+##AUTHOR
+Name : KAUSIK T
+Course : AUTOCAD
